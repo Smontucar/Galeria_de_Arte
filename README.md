@@ -1,6 +1,7 @@
 # Galería de Arte
 
-Este proyecto es una galería de arte en línea que presenta una colección de obras de arte de varios artistas. Los visitantes pueden explorar diversas creaciones artísticas junto con información sobre los artistas y los precios de las obras.
+Este proyecto es una galería de arte en línea que presenta una colección de obras de arte de varios artistas. Las imágenes son generadas por una IA de Bing que utiliza técnicas avanzadas para crear obras de arte únicas y creativas. Los visitantes pueden explorar diversas creaciones artísticas junto con información sobre los artistas y los precios de las obras.
+
 
 ## Vista Previa
 
