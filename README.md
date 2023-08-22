@@ -1,6 +1,6 @@
 # Galería de Arte
 
-Bienvenido/a a la Galería de Arte en línea. Esta galería presenta una colección diversa de obras de arte generadas por una IA de Image Bing Creator, creada por diferentes artistas virtuales. Los visitantes pueden explorar estas obras, conocer a los artistas virtuales y disfrutar de la creatividad visual generada por inteligencia artificial.
+Este proyecto es una galería de arte en línea que presenta una colección de obras de arte de varios artistas. Los visitantes pueden explorar diversas creaciones artísticas junto con información sobre los artistas y los precios de las obras.
 
 ## Vista Previa
 
