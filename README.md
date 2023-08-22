@@ -15,7 +15,6 @@ Bienvenido/a a la Galería de Arte en línea. Esta galería presenta una colecci
 ## Capturas de Pantalla
 
 ![Captura de Pantalla 1](/screenshots/screenshot1.png)
-![Captura de Pantalla 2](/screenshots/screenshot2.png)
 
 ## Cómo Usar
 
